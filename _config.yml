@@ -1,0 +1,5 @@
+title: "Natural Language Processing in Health"
+description: "HINF 5016"
+theme: jekyll-theme-cayman
+plugins:
+- jekyll-remote-theme
