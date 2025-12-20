@@ -49,11 +49,11 @@ If you are interested in Deep Learning
 | 2/2 | 4 | n-gram | | |
 | 2/9 | 5 | Text classification | Homework 2 | Homework 1 |
 | 2/16 | 6 | Presidents’ Day - no classes | | |
-| 2/23 | 7 | Part-of-speech tagging and parsing | Literature review | Homework 2 |
+| 2/23 | 7 | Part-of-speech tagging and parsing | Homework 3 | Homework 2 |
 | 3/2 | 8 | Word vector | | |
-| 3/9 | 9 | Intro to deep learning | Homework 3 | Literature review |
+| 3/9 | 9 | Intro to deep learning | Homework 4 | Homework 3 |
 | 3/16 | 10 | CNN, RNN, and Transformer | | |
-| 3/23 | 11 | Large Language Model | Homework 4 | Homework 3 |
+| 3/23 | 11 | Large Language Model | Homework 5 | Homework 4 |
 | 3/30 | 12 | Multimodal large language models | | |
-| 4/6 | 13 | Final project presentation | | Homework 4 |
+| 4/6 | 13 | Final project presentation | | Homework 5 |
 | 4/13 | | Final Exams | | Final project manuscript |
