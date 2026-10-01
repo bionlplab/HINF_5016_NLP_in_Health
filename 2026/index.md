@@ -1,7 +1,7 @@
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
-**Time**: Jan. 11, 2027 - April 12, 2027, 5:15-8:15 pm East Time on Mondays<br>
+**Time**: Jan. 12, 2026 - April 13, 2026, 5:00-8:00 pm East Time on Mondays<br>
 **Location**: TBD<br>
-**TA**: Steve Feng <xuf4001@med.cornell.edu>, Geoffrey Martin <ghm4002@med.cornell.edu><br>
+**TA**: Haotian Ma <ham7026@med.cornell.edu>, Geoffrey Martin <ghm4002@med.cornell.edu><br>
 **Office Hours**: TBD<br>
 **Grading**: Letter grade
 
@@ -43,17 +43,17 @@ If you are interested in Deep Learning
 
 | Date | Week | TOPICS | READINGS OR PRE-WORK DUE BEFORE CLASS | ASSIGNMENTS DUE |
 |-------------|-------------|---------------------------------------------------|------------------------------------------------|---------------------------------|
-| 1/11 | 1 | Introduction | | |
-| 1/18 | 2 | Martin Luther King, Jr. Day – no classes | | |
-| 1/25 | 3 | Text preprocessing and regular expression | Homework 1 | |
-| 2/1 | 4 | n-gram | | |
-| 2/8 | 5 | Text classification | Homework 2 | Homework 1 |
-| 2/15 | 6 | Presidents’ Day - no classes | | |
-| 2/22 | 7 | Part-of-speech tagging and parsing | Literature review | Homework 2 |
-| 3/1 | 8 | Word vector | | |
-| 3/8 | 9 | Intro to deep learning | Homework 3 | Literature review |
-| 3/15 | 10 | CNN, RNN, and Transformer | | |
-| 3/22 | 11 | Large Language Model | Homework 4 | Homework 3 |
-| 3/29 | 12 | Multimodal large language models | | |
-| 4/5 | 13 | Final project presentation | | Homework 4 |
-| 4/12 | | Final Exams | | Final project manuscript |
+| 1/12 | 1 | Introduction | | |
+| 1/19 | 2 | Martin Luther King, Jr. Day – no classes | | |
+| 1/26 | 3 | Text preprocessing and regular expression | Homework 1 | |
+| 2/2 | 4 | n-gram | | |
+| 2/9 | 5 | Text classification | Homework 2 | Homework 1 |
+| 2/16 | 6 | Presidents’ Day - no classes | | |
+| 2/23 | 7 | Part-of-speech tagging and parsing | Literature review | Homework 2 |
+| 3/2 | 8 | Word vector | | |
+| 3/9 | 9 | Intro to deep learning | Homework 3 | Literature review |
+| 3/16 | 10 | CNN, RNN, and Transformer | | |
+| 3/23 | 11 | Large Language Model | Homework 4 | Homework 3 |
+| 3/30 | 12 | Multimodal large language models | | |
+| 4/6 | 13 | Final project presentation | | Homework 4 |
+| 4/13 | | Final Exams | | Final project manuscript |
